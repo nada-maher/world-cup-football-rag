@@ -1,0 +1,23 @@
+queries:
+
+  fifa:
+    - "FIFA World Cup 2022 match report"
+    - "FIFA World Cup 2022 statistics"
+    - "FIFA World Cup 2018 match report"
+    - "FIFA World Cup history"
+    - "FIFA World Cup records"
+    - "FIFA World Cup teams"
+    - "FIFA World Cup players"
+
+  ifab:
+    - "IFAB Laws of the Game"
+    - "IFAB offside law"
+    - "IFAB handball law"
+    - "IFAB VAR protocol"
+    - "IFAB Law changes"
+
+  fbref:
+    - "FBref World Cup statistics"
+    - "FBref World Cup player statistics"
+    - "FBref World Cup team statistics"
+    - "FBref World Cup match results"
