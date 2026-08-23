@@ -1,0 +1,14 @@
+seeds:
+
+  fifa:
+    - "https://www.fifa.com/en/tournaments/mens/worldcup"
+    - "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
+    - "https://www.fifa.com/en/tournaments/mens/worldcup/2018russia"
+    - "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/fifa-world-cup-2026-hosts-cities-dates-usa-mexico-canada"
+
+  ifab:
+    - "https://www.theifab.com/laws/latest/about-the-laws/"
+    - "https://www.theifab.com/laws/latest/notes-on-the-laws/"
+
+  fbref:
+    - "https://fbref.com/en/comps/1/World-Cup-Stats"
