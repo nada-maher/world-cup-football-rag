@@ -1,0 +1,25 @@
+crawl:
+
+  max_depth: 2
+
+  max_pages_per_source: 40
+
+  allowed_domains:
+    - "fifa.com"
+    - "theifab.com"
+    - "fbref.com"
+
+  allowed_content_types:
+    - "text/html"
+
+  blocked_patterns:
+    - "/shop/"
+    - "/tickets/"
+    - "/video/"
+    - "/videos/"
+    - "/login/"
+    - "/account/"
+
+  respect_robots_txt: true
+
+  request_delay_seconds: 1
