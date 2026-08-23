@@ -1,1 +1,16 @@
+sources:
 
+  - name: FIFA
+    type: official
+    base_url: https://www.fifa.com/
+    category: world_cup
+
+  - name: IFAB
+    type: laws
+    base_url: https://www.theifab.com/
+    category: football_laws
+
+  - name: FBref
+    type: analytics
+    base_url: https://fbref.com/
+    category: football_statistics
